@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as UI Developer
-- 🌱 I’m currently learning JS
+<!-- - 🌱 I’m currently learning JS -->
 - 📫 You can reach me through hello.ishwors@gmail.com
-- 👯 I'm seeking help from backend stack to work on Hobby Project
+<!-- - 👯 I'm seeking help from backend stack to work on Hobby Project -->
 
 
