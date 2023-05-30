@@ -6,7 +6,3 @@
 
 - 📫 You can reach me through **hello.ishwors@gmail.com**
 
-<a href="https://github.com/ishwors/github-stats">
-![](https://github.com/ishwors/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/ishwors/github-stats/blob/master/generated/languages.svg)
-</a>
