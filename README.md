@@ -4,5 +4,7 @@
 
 - 🌱 I’m currently working as **UI Developer**
 
+- 😒 **Core JS** & **ES6 Features**
+
 - 📫 You can reach me through **hello.ishwors@gmail.com**
 
