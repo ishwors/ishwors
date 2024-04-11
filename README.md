@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishwors)   [![Visit Website](https://img.shields.io/badge/Visit_Website-blue)](https://ishwors.com.np)   <span align="right"><img src="https://komarev.com/ghpvc/?username=ishwors&label=Profile%20views&color=0e75b6&style=flat" alt="ishwors"/></span>    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishwors)  [![Medium](https://img.shields.io/badge/Medium_Blogs-yellow?style=flat&logo=medium&logoColor=%23FFFFFF&color=%23000000)](https://ishwors.medium.com/)  [![StackOverflow](https://img.shields.io/badge/StackOverflow-yellow?style=flat&logo=stackoverflow&logoColor=%23FFFFFF&color=0e75b6)]()  [![Visit Website](https://img.shields.io/badge/Visit_Website-blue)](https://ishwors.com.np)   <span align="right"><img src="https://komarev.com/ghpvc/?username=ishwors&label=Profile%20views&color=0e75b6&style=flat" alt="ishwors"/></span>    
 
 <div>
   <h1> 
@@ -53,6 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=%23FFFFFF&color=%23F05032)
 ![GitLab](https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=%23FFFFFF&color=%23FC6D26)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Slack](https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=slack&color=%234A154B)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-white?style=for-the-badge&logo=visualstudio&logoColor=%23FFFFFF&color=%235C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=%23FFFFFF&color=%23007ACC) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
