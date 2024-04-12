@@ -1,11 +1,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishwors)
-[![Pluralsight](https://img.shields.io/badge/Pluralsight-yellow?style=flat&logo=pluralsight&logoColor=%23FFFFFF&color=%23F15B2A)](https://app.pluralsight.com/profile/ishwors)
 [![ishwors.com.np](https://img.shields.io/badge/Visit_Website-blue)](https://www.ishwors.com.np)
 <span align="right"><img src="https://komarev.com/ghpvc/?username=ishwors&label=Profile%20views&color=0e75b6&style=flat" alt="ishwors"/></span>   
-<!---[![Medium](https://img.shields.io/badge/Medium_Blogs-yellow?style=flat&logo=medium&logoColor=%23FFFFFF&color=%23FFC017)](https://ishwors.medium.com/)
+<!---
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-yellow?style=flat&logo=pluralsight&logoColor=%23FFFFFF&color=%23F15B2A)](https://app.pluralsight.com/profile/ishwors)
+[![Medium](https://img.shields.io/badge/Medium_Blogs-yellow?style=flat&logo=medium&logoColor=%23FFFFFF&color=%23FFC017)](https://ishwors.medium.com/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-yellow?style=flat&logo=stackoverflow&logoColor=%23FFFFFF&color=F58025)]()
 [![Leetcode](https://img.shields.io/badge/LeetCode-yellow?style=flat&logo=leetcode&logoColor=%23FFFFFF&color=%23FFA116)]()
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-blue?style=flat&logo=freecodecamp&logoColor=%23FFFFFF&color=%230A0A23)](https://www.freecodecamp.org/fcc9eb572a5-f296-49a5-97e3-5aa16d596450)--->
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-blue?style=flat&logo=freecodecamp&logoColor=%23FFFFFF&color=%230A0A23)](https://www.freecodecamp.org/fcc9eb572a5-f296-49a5-97e3-5aa16d596450)
+--->
 
 
 
@@ -16,7 +18,7 @@
   <p>
     <ul style="list-style: none;">
       <li>
-        I am learning everything...
+        I am learning..., ...
       </li>
     </ul>
   </p>
@@ -28,7 +30,7 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&color=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%23FFFFFF&color=%233776AB) 
 ![HTML](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&color=%23E34F26)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
@@ -59,6 +61,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Apache jMeter](https://img.shields.io/badge/jMeter-red?style=for-the-badge&logo=apachejmeter&color=%23D22128)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=%23FFFFFF&color=%23F05032)
 ![GitLab](https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=%23FFFFFF&color=%23FC6D26)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
