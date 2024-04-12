@@ -1,4 +1,13 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishwors)  [![Medium](https://img.shields.io/badge/Medium_Blogs-yellow?style=flat&logo=medium&logoColor=%23FFFFFF&color=%23000000)](https://ishwors.medium.com/)  [![StackOverflow](https://img.shields.io/badge/StackOverflow-yellow?style=flat&logo=stackoverflow&logoColor=%23FFFFFF&color=0e75b6)]()  [![Visit Website](https://img.shields.io/badge/Visit_Website-blue)](https://ishwors.com.np)   <span align="right"><img src="https://komarev.com/ghpvc/?username=ishwors&label=Profile%20views&color=0e75b6&style=flat" alt="ishwors"/></span>    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishwors)
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-yellow?style=flat&logo=pluralsight&logoColor=%23FFFFFF&color=%23F15B2A)](https://app.pluralsight.com/profile/ishwors)
+[![ishwors.com.np](https://img.shields.io/badge/Visit_Website-blue)](https://www.ishwors.com.np)
+<span align="right"><img src="https://komarev.com/ghpvc/?username=ishwors&label=Profile%20views&color=0e75b6&style=flat" alt="ishwors"/></span>   
+<!---[![Medium](https://img.shields.io/badge/Medium_Blogs-yellow?style=flat&logo=medium&logoColor=%23FFFFFF&color=%23FFC017)](https://ishwors.medium.com/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-yellow?style=flat&logo=stackoverflow&logoColor=%23FFFFFF&color=F58025)]()
+[![Leetcode](https://img.shields.io/badge/LeetCode-yellow?style=flat&logo=leetcode&logoColor=%23FFFFFF&color=%23FFA116)]()
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-blue?style=flat&logo=freecodecamp&logoColor=%23FFFFFF&color=%230A0A23)](https://www.freecodecamp.org/fcc9eb572a5-f296-49a5-97e3-5aa16d596450)--->
+
+
 
 <div>
   <h1> 
