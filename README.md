@@ -73,6 +73,29 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
+<details>
+<summary>
+<span> 🛠️ Skill Table: </span>  
+</summary>
+
+| Types                       | Skills                                       |
+| :---------------------------|:---------------------------------------------|
+| **Programming Languages**   | C#, JavaScript, Python, Java, HTML, CSS, SQL |
+| **Frameworks/Libraries**    | .NET Core, React (NextJS, Vite), Bootstrap, AntDesign, MaterialUI |
+| **Development Tools**       | Git, GitLab, GitHub, Trello, Visual Studio, VS Code |
+| **Database Tools**          | MS SQL, MySQL, PostreSQL, Redis, SSMS, pgAdmin |
+| **Deployment Technologies** | Docker, GitHub Actions, Kubernetes, AWS, Azure, Linux, NGINX |
+| **Testing & Analysis**      | xUnit, Apache jMeter, Postman, SonarQube |
+| **Others**                  | Figma, Canva, WordPress |
+
+
+PostgreSQL, MS SQL Server
+
+
+
+
+</details>
+
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishwors&theme=dark&hide_border=false)
