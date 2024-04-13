@@ -2,11 +2,11 @@
 [![ishwors.com.np](https://img.shields.io/badge/Visit_Website-blue)](https://www.ishwors.com.np)
 <span align="right"><img src="https://komarev.com/ghpvc/?username=ishwors&label=Profile%20views&color=0e75b6&style=flat" alt="ishwors"/></span>   
 <!---
-[![Pluralsight](https://img.shields.io/badge/Pluralsight-yellow?style=flat&logo=pluralsight&logoColor=%23FFFFFF&color=%23F15B2A)](https://app.pluralsight.com/profile/ishwors)
-[![Medium](https://img.shields.io/badge/Medium_Blogs-yellow?style=flat&logo=medium&logoColor=%23FFFFFF&color=%23FFC017)](https://ishwors.medium.com/)
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-yellow?style=flat&logo=pluralsight&logoColor=%23FFFFFF&color=%23F15B2A)]()
+[![Medium](https://img.shields.io/badge/Medium_Blogs-yellow?style=flat&logo=medium&logoColor=%23FFFFFF&color=%23FFC017)]()
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-yellow?style=flat&logo=stackoverflow&logoColor=%23FFFFFF&color=F58025)]()
 [![Leetcode](https://img.shields.io/badge/LeetCode-yellow?style=flat&logo=leetcode&logoColor=%23FFFFFF&color=%23FFA116)]()
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-blue?style=flat&logo=freecodecamp&logoColor=%23FFFFFF&color=%230A0A23)](https://www.freecodecamp.org/fcc9eb572a5-f296-49a5-97e3-5aa16d596450)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-blue?style=flat&logo=freecodecamp&logoColor=%23FFFFFF&color=%230A0A23)]()
 --->
 
 
@@ -87,12 +87,6 @@
 | **Deployment Technologies** | Docker, GitHub Actions, Kubernetes, AWS, Azure, Linux, NGINX |
 | **Testing & Analysis**      | xUnit, Apache jMeter, Postman, SonarQube |
 | **Others**                  | Figma, Canva, WordPress |
-
-
-PostgreSQL, MS SQL Server
-
-
-
 
 </details>
 
