@@ -18,7 +18,7 @@
   <p>
     <ul style="list-style: none;">
       <li>
-        I am learning..., ...
+        Currently, I am learning and developing modern software solutions using .NET, React, AWS/Azure, and other tech stacks.
       </li>
     </ul>
   </p>
