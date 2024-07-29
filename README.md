@@ -18,7 +18,16 @@
   <p>
     <ul style="list-style: none;">
       <li>
-        Currently, I am learning and developing modern software solutions using .NET, React, AWS/Azure, and other tech stacks.
+        🌱 I am exploring modern software engineering, system design.
+      </li>
+      <li>
+        👨🏻‍💻 Curretly, I am working as Software Engineer(.NET) building Loan/Deposit Management System.
+      </li>
+      <li>
+        🫂 I am looking to collaborate with you if you are interested to build an ERP Software(PMS) with skills related to Frontend, Backend, AI ...
+      </li>
+      <li>
+        📧 <a href="mailto:hello.ishwors@gmail.com">hello.ishwors@gmail.com</a>
       </li>
     </ul>
   </p>
