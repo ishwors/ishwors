@@ -18,10 +18,10 @@
   <p>
     <ul style="list-style: none;">
       <li>
-        🌱 I am exploring modern software engineering, system design.
+        🌱 I am exploring <b>modern software engineering & system design</b>.
       </li>
       <li>
-        👨🏻‍💻 Curretly, I am working as Software Engineer(.NET) building Loan/Deposit Management System.
+        👨🏻‍💻 Curretly, I am working as Software Engineer(.NET) building <b>Loan/Deposit Management System</b>.
       </li>
       <li>
         🫂 I am looking to collaborate with you if you are interested to build an ERP Software(PMS) with skills related to Frontend, Backend, AI ...
