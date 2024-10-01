@@ -18,16 +18,19 @@
   <p>
     <ul style="list-style: none;">
       <li>
-        🌱 I am exploring <b>modern software engineering & system design</b>.
-      </li>
+        🌱 I’m currently exploring <b>Software Engineering, System Design, DevOps,</b> and <b>AI/MLn</b>.
+      </li><br>
       <li>
-        👨🏻‍💻 Curretly, I am working as Software Engineer(.NET) building <b>Loan/Deposit Management System</b>.
-      </li>
+        👨🏻‍💻 I work as a <b>unior Software Engineer (.NET Full Stack)</b> at a Fin-Tech company.
+      </li><br>     
       <li>
-        🫂 I am looking to collaborate with you if you are interested to build an ERP Software(PMS) with skills related to Frontend, Backend, AI ...
-      </li>
+        ⚒️ On the side, I’m building a basic procurement software using <b>ASP.NET Core</b>, <b>Identity</b>, and <b>ReactJS</b>. I’m also planning to implement <b>LLMs</b> in this project following industry standards. I’m always open to collaboration! 👁️🤝.
+      </li><br>
       <li>
-        📧 <a href="mailto:hello.ishwors@gmail.com">hello.ishwors@gmail.com</a>
+        🚀 I’m on a mission to knock on the door of YC. (Want to help? 🙏👇)
+      </li><br>
+      <li>
+        📧 Reach me at <a href="mailto:hello.ishwors@gmail.com">hello.ishwors@gmail.com</a> or connect/text on <a href="https://linkedin.com/in/ishwors"><b>Linkedin</b></a>
       </li>
     </ul>
   </p>
