@@ -18,7 +18,7 @@
   <p>
     <ul style="list-style: none;">
       <li>
-        🌱 I’m currently exploring <b>Software Engineering, System Design, DevOps,</b> and <b>AI/MLn</b>.
+        🌱 I’m currently exploring <b>Software Engineering, System Design, DevOps,</b> and <b>AI/ML</b>.
       </li><br>
       <li>
         👨🏻‍💻 I work as a <b>unior Software Engineer (.NET Full Stack)</b> at a Fin-Tech company.
