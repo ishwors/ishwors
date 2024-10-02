@@ -21,7 +21,7 @@
         🌱 I’m currently exploring <b>Software Engineering, System Design, DevOps,</b> and <b>AI/ML</b>.
       </li><br>
       <li>
-        👨🏻‍💻 I work as a <b>Junior Software Engineer (.NET Full Stack)</b> at a Fin-Tech company.
+        👨🏻‍💻 I work as a <b>Junior Software Developer(.NET Full Stack)</b> at a Fin-Tech company.
       </li><br>     
       <li>
         ⚒️ On the side, I’m building a basic procurement software using <b>ASP.NET Core</b>, <b>.NET Identity</b>, and <b>ReactJS</b>. I’m also planning to implement <b>LLMs</b> in this project following industry standards. I’m always open to collaboration! 👁️🤝.
