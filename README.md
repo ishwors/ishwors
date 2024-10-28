@@ -23,12 +23,12 @@
       <li>
         👨🏻‍💻 I work as a <b>Junior Software Developer(.NET Full Stack)</b> at a Fin-Tech company.
       </li><br>     
-      <li>
+<!--       <li>
         ⚒️ On the side, I’m building a basic procurement software using <b>ASP.NET Core</b>, <b>.NET Identity</b>, and <b>ReactJS</b>. I’m also planning to implement <b>LLMs</b> in this project following industry standards. I’m always open to collaboration! 👁️🤝.
       </li><br>
       <li>
         🚀 I’m on a mission to knock on the door of YC. (Want to help? 🙏👇)
-      </li><br>
+      </li><br> -->
       <li>
         📧 Reach me at <a href="mailto:hello.ishwors@gmail.com">hello.ishwors@gmail.com</a> or connect/text on <a href="https://linkedin.com/in/ishwors"><b>Linkedin</b></a>
       </li>
