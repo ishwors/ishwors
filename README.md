@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishwors)
 [![ishwors.com.np](https://img.shields.io/badge/Visit_Website-blue)](https://www.ishwors.com.np)
-<span align="right"><img src="https://komarev.com/ghpvc/?username=ishwors&label=Profile%20views&color=0e75b6&style=flat" alt="ishwors"/></span> 
+<span align="right"><img src="https://komarev.com/ghpvc/?username=ishwors&label=Profile%20views&color=0e75b6&style=flat" alt="ishwors"/></span>   
 <!---
 [![Pluralsight](https://img.shields.io/badge/Pluralsight-yellow?style=flat&logo=pluralsight&logoColor=%23FFFFFF&color=%23F15B2A)]()
 [![Medium](https://img.shields.io/badge/Medium_Blogs-yellow?style=flat&logo=medium&logoColor=%23FFFFFF&color=%23FFC017)]()
