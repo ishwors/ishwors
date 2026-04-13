@@ -1,10 +1,10 @@
 # Hey 👋, I'm Ishwor Shrestha
 
-**Software Engineer** building scalable systems with **.NET, C#, and React**
+**Software Engineer** building scalable systems with **.NET, C#, React, JavaScript, FastAPI, and Python**
 
 ## 🚀 What I Do
 
-- 💼 Full-Stack Developer at a Fintech Focused Companies (3 years)
+- 💼 Full-Stack Developer (3 years)
 - 🏗️ Building web, and enterprise applications
 - 🎯 Focused on clean architecture,System Design, API design, and database optimization
 
