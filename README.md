@@ -6,7 +6,7 @@
 
 - 💼 Full-Stack Developer (3 years)
 - 🏗️ Building web, and enterprise applications
-- 🎯 Focused on clean architecture,System Design, API design, and database optimization
+- 🎯 Focused on clean architecture,System Design, AI-Native Software, API design, and database optimization
 
 ## 💻 Tech Stack
 
