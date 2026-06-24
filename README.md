@@ -4,13 +4,13 @@
 
 ## 🚀 What I Do
 
-- 💼 Full-Stack Developer (3 years)
+- 💼 Full-Stack Development
 - 🏗️ Building web, and enterprise applications
 - 🎯 Focused on clean architecture,System Design, AI-Native Software, API design, and database optimization
 
 ## 💻 Tech Stack
 
-**Backend:** C#, Pyhton, .NET Core, ASP.NET Core, SQL Server, PostgreSQL, Redis  
+**Backend:** C#, .NET Core, ASP.NET Core, Pyhton, SQL Server, PostgreSQL, Redis  
 **Frontend:** React, TypeScript, JavaScript, HTML/CSS  
 **Tools:** Docker, Azure, AWS, Git, GitHub Actions
 
